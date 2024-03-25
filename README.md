@@ -38,6 +38,8 @@ This project is a React component that implements an accordion UI pattern. Users
 ## Credits
 This project was inspired by the tutorial video available at [YouTube - Accordion Component Tutorial](https://www.youtube.com/watch?v=5ZdHfJVAY-s). Special thanks to the creator for the informative tutorial.
 
+You can checkout the final product [here](https://accordianbydy.netlify.app/)
+
 ---
 
 ## Contributing
